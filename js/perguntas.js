@@ -1,16 +1,16 @@
 export const perguntas = [
     {
-        enunciado: "Qual foi o time que ganhou a copa de 2022?",
+        enunciado: "Qual é o maior planeta do sistema solar",
         alternativas: [
             {
-                texto: "Argentina",
+                texto: "júpiter",
                 afirmacao: [
                     "Sim, você acertou."
                     ],
                 proxima: 1,
             },
             {
-                texto: "França",
+                texto: "Terra",
                 afirmacao: [
                     "Não, você errou."
                     ],
@@ -20,17 +20,17 @@ export const perguntas = [
     },
    
     {
-        enunciado: "Qual time ganhou a copa de 2014?",
+        enunciado: "Qual planeta é conhecido como mais quente do sistema solar?",
         alternativas: [
             {
-                texto:"Argentina",
+                texto:"Marte",
                 afirmacao: [
                     "Não, você errou."
                     ],
                 proxima: 2,
             },
             {
-                texto: "Alemanha",
+                texto: "Vênus",
                 afirmacao: [
                     "Sim, você acertou."
                     ],
@@ -40,19 +40,19 @@ export const perguntas = [
     },
    
     {
-        enunciado: "qual time tem mais copa do  mundo?",
+        enunciado: "Qual é o planeta mais próximo ao sol?",
         alternativas: [
             {
-                texto:"Brasil",
+                texto:"Mercúrio",
                 afirmacao: [
-                    "Sim, esse time possui 5 copas.,"
+                    "Correto.,"
                     ],
                 proxima: 3,
             },
             {
-                texto:"Itália",
+                texto:"Saturno",
                 afirmacao: [
-                    "Não, esse time possui apenas 3 copas., "
+                    "Incorreto, "
                 ],
                 proxima: 3,
             },
@@ -60,17 +60,17 @@ export const perguntas = [
     },
    
     {
-        enunciado: "Qual time foi campeão da copa de 2018?",
+        enunciado: "Qual planeta é conhecido por ter anéis?",
         alternativas: [
             {
-                texto: "Croácia",
+                texto: "Júpiter",
                 afirmacao: [
                     "Não, você errou., "
                     ],
                 proxima: 4,
             },
             {
-                texto: "França",
+                texto: "Saturno",
                 afirmacao: [
                     "Sim, você acertou.,"
                 ],
@@ -80,17 +80,17 @@ export const perguntas = [
     },
    
     {
-        enunciado: "Qual é o maior artilheiro da história da Copa do Mundo ?",
+        enunciado: "Qual é o planeta mais distante do sol?",
         alternativas: [
             {
-                texto: "Miroslav Klose",
+                texto: "Netuno",
                 afirmacao: [
                     ". Correto "
                     ],
                 proxima: 5,
             },
             {
-                texto: "Ronaldo Fenômeno ",
+                texto: "Urano",
                 afirmacao: [
                     ". Incorreto "
                     ],
@@ -100,16 +100,16 @@ export const perguntas = [
     },
    
     {
-        enunciado: "Qual foi o melhor goleiro do mundo da Copa de 2022 ?",
+        enunciado: "Qual é o menor planeta do sistema solar?",
         alternativas: [
             {
-                texto: "Emiliano Martínez",
+                texto: "Mercúrio",
                 afirmacao: [
                     " Correto "
                     ]
             },
             {
-                texto: "Alisson Becker",
+                texto: "Plutão",
                 afirmacao: [
                     " Incorreto "
                     ]
